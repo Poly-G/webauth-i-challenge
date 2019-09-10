@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "helmet": "^3.21.0",
+    "logger": "^0.0.1",
+    "nodemon": "^1.19.2"
+  }
+}
